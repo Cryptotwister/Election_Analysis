@@ -18,12 +18,13 @@ There were 369,711 votes cast during the election.
 1. Jefferson had 10.5% of the total votes with 38,855 of votes.
 2. Denver had 82.8% of the total votes with 306,055 of votes.
 3. Arapahoe had 6.7% of the total votes with 24,801 of votes.
-4. 
-5. <br />
+#### The county with the largest turnout:
+Denver had 306,055 of votes which is 82.8%.
+#### Candidates breakdown:
+1. Charles Casper Stockham received 23.0% (85,213 votes).
+2. Diana DeGette received 73.8% (272,892 votes).
+3. Raymon Anthony Doane received 3.1% (11,606 votes).
+#### Winner of the election was:
+Diana DeGette who received 73.8% of the votes with 272,892 number of votes.
 
-####
-
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Which county had the largest number of votes?
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
