@@ -11,4 +11,16 @@ In this project, our final Python script will need to be able to deliver the fol
 - The county with the highest turnout
 - The winner of the election based on popular vote
 ## Election-Audit Results
+The analysis of the election results shows the following:
+#### Total number of votes cast:
+There were 369,711 votes cast during the election.
+#### Votes breakdown in each county:
+i. Jefferson
+ii. Denver
+iii. Arapahoe
+####
 
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+- Which county had the largest number of votes?
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
