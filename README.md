@@ -30,3 +30,4 @@ Diana DeGette who received 73.8% of the votes with 272,892 number of votes.
 ![Results Snapshot](https://user-images.githubusercontent.com/42978221/142798869-4dff0e34-9f12-4f7b-8735-bac062fd680d.png)
 
 The snapshot of the Election Results is provided above.
+## Election Audit Summary
