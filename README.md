@@ -1,2 +1,2 @@
 # Election_Analysis
-Python
+Automate the Election results using Python
