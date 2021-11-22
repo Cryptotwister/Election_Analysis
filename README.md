@@ -31,3 +31,4 @@ Diana DeGette who received 73.8% of the votes with 272,892 number of votes.
 
 The snapshot of the Election Results is provided above.
 ## Election Audit Summary
+Elections in general plays a very important part in any modern society. It is a matter that requires a great degree of reliabily and accuracy. Hence, the script we have created for the audit of the above election is universal and provides automation to any further use with some modifications to address the amount of candidates or the regions that held the election.
