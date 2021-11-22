@@ -15,9 +15,9 @@ The analysis of the election results shows the following:
 #### Total number of votes cast:
 There were 369,711 votes cast during the election.
 #### Votes breakdown in each county:
-i. Jefferson \n
-ii. Denver \n
-iii. Arapahoe \n
+i. Jefferson <br />
+ii. Denver <br />
+iii. Arapahoe <br />
 
 ####
 
