@@ -26,5 +26,5 @@ Denver had 306,055 of votes which is 82.8%.
 3. Raymon Anthony Doane received 3.1% (11,606 votes).
 #### Winner of the election was:
 Diana DeGette who received 73.8% of the votes with 272,892 number of votes.
-Here are the results of the Election.
 ![Results Snapshot](https://user-images.githubusercontent.com/42978221/142798869-4dff0e34-9f12-4f7b-8735-bac062fd680d.png)
+The snapshot of the Election Results is provided above.
