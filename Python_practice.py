@@ -1,3 +1,4 @@
+
 # What is the score?
 # score = int(input("What is your test score?"))
 # #Determine the grade.
@@ -38,7 +39,7 @@
 #     print(x)
 #     x=x+1
 
-counties_dict = {"Arapahoe": 422829, "Denver": 463353, "Jefferson": 432438}
+# counties_dict = {"Arapahoe": 422829, "Denver": 463353, "Jefferson": 432438}
 # counties_dict.keys()
 # for county in counties_dict:
 #     print(counties_dict[county])
@@ -49,9 +50,9 @@ counties_dict = {"Arapahoe": 422829, "Denver": 463353, "Jefferson": 432438}
 # for key,value in counties_dict.items():
 #     print(key, value)
 
-voting_data = [{"county":"Arapahoe", "registered_voters": 422829},
-            {"county":"Denver", "registered_voters": 463353},
-            {"county":"Jefferson", "registered_voters": 432438}]
+# voting_data = [{"county":"Arapahoe", "registered_voters": 422829},
+#             {"county":"Denver", "registered_voters": 463353},
+#             {"county":"Jefferson", "registered_voters": 432438}]
 
 # for county_dict in voting_data:
 #     print(county_dict)           
@@ -69,8 +70,8 @@ voting_data = [{"county":"Arapahoe", "registered_voters": 422829},
 # for county_dict in voting_data:
 #      print(county_dict['registered_voters'])
 
-for county_dict in voting_data:
-     print(county_dict['county'])
+# for county_dict in voting_data:
+#      print(county_dict['county'])
 
 # for i in range(len(counties)):
 #     print(counties[i])
@@ -81,9 +82,9 @@ for county_dict in voting_data:
 # # print("I received " + str(percentage_votes)+"% of the total votes.")
 # print(f"I received {my_votes/total_votes*100:.2f}% of the total votes.")
 
-counties_dict = {"Arapahoe": 422829, "Denver": 463353, "Jefferson": 432438}
-for county, voters in counties_dict.items():
-    print(f"{county} county has {voters:,} registered voters.")
+# counties_dict = {"Arapahoe": 422829, "Denver": 463353, "Jefferson": 432438}
+# for county, voters in counties_dict.items():
+#     print(f"{county} county has {voters:,} registered voters.")
 
 # candidate_votes = int(input("How many votes did the candidate get in the election? "))
 # total_votes = int(input("What is the total number of votes in the election? "))
